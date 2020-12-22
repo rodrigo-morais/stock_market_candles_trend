@@ -5,7 +5,7 @@ If the chart presents an asset in a daily time frame, for example, then every da
 
 Below an example of a chart where the green candle are positive and the red are negative.
 
-![chart_win.jpg](attachment:chart_win.jpg)
+![chart_win.jpg](https://github.com/rodrigo-morais/stock_market_candles_trend/blob/master/chart_win.jpg)
 
 Evaluating the image above is possible to notice that after a positive candle sometimes it have one, two, or more positive candles, and sometimes we have a negative candle. The same happens to a negative candle.
 
